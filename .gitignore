@@ -1,0 +1,29 @@
+﻿__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+
+# No large raw pixel-level inputs in this curated repo
+*.zip
+*.rar
+
+# Local environments
+.venv/
+venv/
+env/
+
+# Editor/history artifacts
+.history/
+.Rhistory
+
+# LaTeX/log artifacts
+*.aux
+*.log
+*.out
+*.synctex.gz
+
+# Office lock files
+.~lock*

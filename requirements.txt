@@ -1,0 +1,25 @@
+# Inferred Python dependencies from scripts currently present in the repository.
+# Versions are intentionally left unpinned because exact working versions were
+# not documented in the original project state.
+
+pandas
+numpy
+matplotlib
+scipy
+seaborn
+scikit-learn
+joblib
+openpyxl
+geopandas
+rasterio
+shapely
+statsmodels
+sympy
+windrose
+hesseflux
+earthengine-api
+contextily
+
+# Manual note:
+# The workflow also references TEA for ET partitioning, but its installation
+# source/version is not yet documented in the repository.

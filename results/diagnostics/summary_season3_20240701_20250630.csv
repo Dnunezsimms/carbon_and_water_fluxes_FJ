@@ -1,0 +1,2 @@
+season,infile,total_shards,total_pixels_in_shards,pixels_with_n_obs_ge_MIN,pixels_with_accum,rows_in_output_csv
+season3_20240701_20250630,C:\projects\carbon_and_water_fluxes_FJ\data\raw\NEE_predictors_pixels_season_3_20240701_20250630.csv,48,53090,53090,53090,53090

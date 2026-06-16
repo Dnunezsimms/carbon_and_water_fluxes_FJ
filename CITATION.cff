@@ -1,0 +1,28 @@
+﻿cff-version: 1.2.0
+message: "If you use this curated public repository, please cite the repository and the associated study."
+title: "carbon_and_water_fluxes_FJ_public"
+type: software
+authors:
+  - family-names: "Nunez-Simms"
+    given-names: "Diego"
+preferred-citation:
+  type: article
+  title: "Carbon and water fluxes reveal that one of the world's most arid shrublands functions as a net carbon sink"
+  authors:
+    - family-names: "Nunez-Simms"
+      given-names: "Diego"
+    - family-names: "Troncoso"
+      given-names: "Alejandra J."
+    - family-names: "Gajardo"
+      given-names: "Cristian"
+    - family-names: "Serrano-Ortiz"
+      given-names: "Penelope"
+    - family-names: "Squeo"
+      given-names: "Francisco"
+    - family-names: "Chavez"
+      given-names: "Roberto"
+    - family-names: "Nelson"
+      given-names: "Jacob A."
+    - family-names: "Perez-Quezada"
+      given-names: "Jorge"
+  note: "Related manuscript file is intentionally not distributed in this curated public subset; see manuscript/README.md"
