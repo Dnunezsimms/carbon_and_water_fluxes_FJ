@@ -1,8 +1,14 @@
-﻿No open-source license has been formally selected for this curated public release yet.
+No open-source license has been applied to this repository yet.
 
-Until a final license is confirmed by the project owners/coauthors/institutional context, this repository should be treated as:
+What this means:
 
-- publicly visible documentation and selected research assets
-- not an automatically licensed unrestricted code/data package
+- the repository is publicly visible for transparency and academic inspection
+- reuse, redistribution, or adaptation permissions have not yet been broadly granted through a standard license
+- rights remain with the authors and any other applicable rights holders unless explicit permission is provided separately
 
-If reuse beyond fair academic inspection is needed, please contact the corresponding author or project owners.
+Why this approach was used:
+
+- the associated manuscript is still under peer review
+- licensing of code, documentation, figures, and data may require alignment with coauthors, institutional guidance, or publisher policies
+
+If a formal license is selected later, this file should be replaced with the chosen license text and the repository metadata should be updated accordingly.

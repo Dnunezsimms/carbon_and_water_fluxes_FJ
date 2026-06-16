@@ -1,10 +1,11 @@
-﻿cff-version: 1.2.0
+cff-version: 1.2.0
 message: "If you use this curated public repository, please cite the repository and the associated study."
 title: "carbon_and_water_fluxes_FJ_public"
 type: software
 authors:
   - family-names: "Nunez-Simms"
     given-names: "Diego"
+repository-code: "https://github.com/Dnunezsimms/carbon_and_water_fluxes_FJ"
 preferred-citation:
   type: article
   title: "Carbon and water fluxes reveal that one of the world's most arid shrublands functions as a net carbon sink"
@@ -25,4 +26,4 @@ preferred-citation:
       given-names: "Jacob A."
     - family-names: "Perez-Quezada"
       given-names: "Jorge"
-  note: "Related manuscript file is intentionally not distributed in this curated public subset; see manuscript/README.md"
+  note: "Manuscript currently under peer review as of June 2026. Update article citation metadata after editorial decision or publication. The manuscript file itself is intentionally not distributed in this repository; see manuscript/README.md."
